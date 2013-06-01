@@ -12,7 +12,7 @@ Windows Annigilator v0.1 by Azizjon Mamashoev  {Progress: 100%}
  
   Features:
  
-	- Plug-ins managmet. Downloads plug-ins from iternet-site
+	- Plug-ins managmet. Downloads plug-ins from internet-site
  	- Splacing CreateProcessInternalW for infection
  	- Infection engine dont infecting setup and self-extracting files, cause them verificates CRC
  	- If virus runned with parametr "-infect %file%" it infects this file and quits
